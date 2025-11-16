@@ -321,3 +321,4 @@ PORT=8000 poetry run python -m server
 - `model="gemini/gemini-pro"` (requires `GOOGLE_API_KEY`)
 - `model="azure/gpt-4"` (requires `AZURE_API_KEY` + `AZURE_API_BASE`)
 - Add to memory
+- update documentation and then we will test the app on local
