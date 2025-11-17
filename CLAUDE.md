@@ -282,7 +282,7 @@ Each framework integration follows a similar pattern:
 
 cd integrations/langgraph/python/examples
 poetry install
-poetry run langgraph dev --port 2024
+poetry run dev  # Runs FastAPI server on port 2024
 ```
 
 ### CrewAI (Python) - Port 9002
